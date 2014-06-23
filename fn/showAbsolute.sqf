@@ -1,0 +1,1 @@
+cutRsc ['Title', 'PLAIN', 0];

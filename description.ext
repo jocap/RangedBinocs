@@ -1,0 +1,26 @@
+class RscTitles
+{
+	class Title
+	{
+		idd = -1;
+		duration = 3;
+		class controls
+		{
+			class Control
+			{
+				idc = -1;
+				type = 0;
+				style = 3;
+				x = 0; 
+				y = 0;
+				w = 0.1;
+				h = 0.001;
+				font = "Zeppelin32";
+				sizeEx = 0.1;
+				colorBackground[] = {1,0.1,0.1,0.8};
+				colorText[] = {1,1,1,1};
+				text = "Absolute";
+			};
+		};
+	};
+};
